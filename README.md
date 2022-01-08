@@ -20,4 +20,6 @@
 - Conservative & liberal political parties are more controversial. Conservative has the highest number of tweets about 666, and liberal has the second highest number of tweets about 482. Both of these two parties have around 55% positive-sentiment and 45% negative-sentiment tweets.
 - Logistic regression with bag-of word feature has the highest scores on testing generic dataset; other models such as the XgBoost and multinomial naive bayes also perform well. Choose to use logistic regression.
 - By visualizing sentiment predictions of 4 parties, NLP analytics is useful for election campaigns especially if the political party is controversial online, so that we can have enough tweet data to do training analysis. For liberal and conservative parties, the number of correct predictions of sentiment is two to three times larger than the number of incorrect predictions.
+![alter text](https://github.com/elenayinyin/Sentiment_Analysis_NLP_Twitter/blob/main/prediction%20results.png)
+
 - Find the top 50 non-stop words of positive sentiment and negative sentiment shown below.
