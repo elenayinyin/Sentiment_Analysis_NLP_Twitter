@@ -8,7 +8,7 @@
 **Attachments:**
 - **sentiment_analysis.csv:** generic tweets used to train models.
 - **Canadian_elections_2021.csv:** actual testing data.
-- **sentiment_analysis_twitter:** IPython Notebook detailing the analysis performed.
+- **sentiment_analysis_twitter.ipynb:** IPython Notebook detailing the analysis performed.
 
 **Process:**
 - Clean the text data.
